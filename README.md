@@ -61,5 +61,5 @@ Applied Informatics, Bachelor's degree, 2025
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namra404&layout=compact&theme=tokyonight&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namra404&layout=compact&langs_count=8" height="160"/>
 </p>
