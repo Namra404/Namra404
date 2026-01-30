@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Arman Sargsyan</h1>
 
 <p align="center">
-  <a href="https://t.me/NamraGenius">
+  <a href="https://t.me/namra_404">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:armeno123@yandex.ru">
@@ -11,16 +11,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=namra404&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-</p>
-
----
-
-<h3 align="center">🧠 About Me</h3>
-
-<p align="center">
-  Python Backend Developer from Russia
-  Passionate about building reliable, scalable backend systems and automating workflows.  
-  Experienced in developing REST APIs, working with databases, and deploying applications in Docker environments.
 </p>
 
 ---
